@@ -12,3 +12,15 @@ Hey my name is saurabh singh this is git commands
 5. git push --> to push your changes at selected branch (By default its master branch)
 
 6. git difftool --> shows diffrence b/w your local changes and privious chnages
+
+
+
+1. git checkout --<filename> --> for undo non commited text
+2. git checkout --. --> to undo text from all files
+
+
+1. git revert <git id> --> for undo committed changes
+
+
+
+1. git reset -hard <git id> --> To reset these above 
