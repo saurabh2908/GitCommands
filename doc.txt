@@ -1,5 +1,14 @@
+
 Hey my name is saurabh singh this is git commands
 
 1. git status --> showing chnages in your reository
 
 2. git add <filename> --> shows my staging area
+
+3. git commit --> take file from staging area and commit selected files
+
+4. git log --> to check out history of chnages
+
+5. git push --> to push your changes at selected branch (By default its master branch)
+
+6. git difftool --> shows diffrence b/w your local changes and privious chnages
