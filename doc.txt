@@ -5,7 +5,7 @@ Hey saurabh here this is git commands
 ## Git commands to add file
 
 
-1. git status --> showing chnages in your reository
+1. git status --> showing changes in your reository
 
 2. git add <filename> --> shows my staging area
 
